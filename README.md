@@ -1,6 +1,10 @@
-# online-resume
+# Online Resume
 
-A personal online resume website built with HTML and JavaScript.
+A personal online resume website built with HTML.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## How the Website Looks
 
